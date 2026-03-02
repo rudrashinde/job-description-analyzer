@@ -1,1 +1,1 @@
-python machine learning sql numpy pandas
+Python machine learning SQL teamwork
